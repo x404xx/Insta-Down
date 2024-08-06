@@ -38,7 +38,7 @@ https://www.instagram.com/reel/C5WTtLuPrkq/?igsh=OGFvejljb3BmOTM4
 ## Usage
 
 ```
-python -m snapinsta https://www.instagram.com/reel/C5WTtLuPrkq/?igsh=OGFvejljb3BmOTM4
+python -m snapinsta 'https://www.instagram.com/reel/C5WTtLuPrkq/?igsh=OGFvejljb3BmOTM4'
 ```
 
 ## **Legal Disclaimer**
